@@ -1,0 +1,15 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "gawolrio",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    }
+  ],
+  "generated": "2024-07-02T11:50:10.896504Z",
+  "generator": "pub",
+  "generatorVersion": "3.4.4",
+  "pubCache": "file:///home/admin/.pub-cache"
+}
