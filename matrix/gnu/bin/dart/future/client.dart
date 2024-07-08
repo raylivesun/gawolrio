@@ -1,4 +1,4 @@
-String Tails(String path) => path;
+String Tail(String path) => path;
 
 abstract interface class Future<T> {
   Future<T> then(void Function(T value) onFulfilled, {Function onError});

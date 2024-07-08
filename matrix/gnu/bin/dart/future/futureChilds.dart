@@ -45,11 +45,11 @@ int Packages() => Rank() as int;
 
 OSError Rank() {
   var i2 = server;
-  Tails(i2);
+  Tail(i2);
   return OSError("Rank");
 }
 
-Type Tails(Service i2) => Dart_NativeMessageHandler;
+Type Tail(Service i2) => Dart_NativeMessageHandler;
 
 Service Frag(Service i2) => i2;
 

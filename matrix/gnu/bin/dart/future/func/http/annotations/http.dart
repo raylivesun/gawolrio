@@ -41,7 +41,7 @@ import 'dart:io';
 /// ignored and any future writes are ignored.
 ///
 /// The [HttpRequest] exposes the request headers and provides the request body,
-/// if it exists, as a Stream of data. If the body is unread, it is drained
+/// if it exists, as a Stream of data. If the body is unread, it is dOked
 /// when the server writes to the HttpResponse or closes it.
 ///
 /// ## Bind with a secure HTTPS connection
